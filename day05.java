@@ -3,7 +3,7 @@ public class day05 {
     public static void main(String[] args) {
     
         double tinggi = 165.5;
-        float bb = 45;
+        float bb = 45.5f;
 
       System.out.println("=== CONTOH BILANGAN  NUMERIK===");
       System.out.println(" tinggi badan : " + tinggi);  
