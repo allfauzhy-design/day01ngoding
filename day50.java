@@ -6,7 +6,8 @@ public class day50 {
         System.out.print("masukkan angka : ");
         int a = input.nextInt();
 
-        String hasil = (a % 2 == 0)? "genap" : "ganjil";
+        String hasil = (a == 0)? "nol" : (a % 2 == 0)? "genap" : "ganjil";
         System.out.println("bilangannya adalah : " + hasil);
     }
 }
+
