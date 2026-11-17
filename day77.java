@@ -1,7 +1,7 @@
 public class day77 {
     public static void main(String[] args) {
         String a = "HP EliteBook x360 G8";
-        String b = "Intel Core ii";
+        String b = "Intel Core i7";
         String c = "512GB SSD";
 
         System.out.println("===== LAPTOP MY FAVORIT KESUKAAN GWEH =====");
